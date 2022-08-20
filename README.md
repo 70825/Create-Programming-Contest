@@ -11,6 +11,11 @@
       <td> 작성일 </td>
     </tr>
     <tr align="center">
+      <td> 0 </td>
+      <td> Commit </td>
+      <td>  </td>
+    </tr>
+    <tr align="center">
       <td> 1 </td>
       <td> Create Contest </td>
       <td>  </td>
