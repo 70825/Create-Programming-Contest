@@ -84,7 +84,7 @@
     <tr align="center">
       <td> 14 </td>
       <td> error: Conflict Resolve </td>
-      <td>  </td>
+      <td> 2022.09.12 </td>
     </tr>
   </table>
 </div>
