@@ -18,8 +18,8 @@
     </tr>
     <tr align="center">
       <td> 1 </td>
-      <td> Create Contest </td>
-      <td>  </td>
+      <td> Create Contest 및 기본 설정 </td>
+      <td> 2022.09.22 </td>
     </tr>
     <tr align="center">
       <td> 2 </td>
@@ -104,13 +104,11 @@
     </tr>
     <tr align="center">
       <td> 2 </td>
-      <td> 운영진 및 검수진 권한 설정 방법 </td>
-      <td>  </td>
-    </tr>
-    <tr align="center">
-      <td> 3 </td>
       <td> 데이터 추가 </td>
       <td> 2022.09.01 </td>
     </tr>
   </table>
 </div>
+
+# 3. 추가할 내용
+- 추가할 내용이 있다면 언제든지 PR을 보내주시길 바랍니다 😀
