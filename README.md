@@ -29,7 +29,7 @@
     <tr align="center">
       <td> 3 </td>
       <td> General Info </td>
-      <td>  </td>
+      <td> 2022.09.22 </td>
     </tr>
     <tr align="center">
       <td> 4 </td>
