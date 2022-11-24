@@ -24,7 +24,7 @@
     <tr align="center">
       <td> 2 </td>
       <td> Contest Overview </td>
-      <td>  </td>
+      <td> 2022.11.24 </td>
     </tr>
     <tr align="center">
       <td> 3 </td>
