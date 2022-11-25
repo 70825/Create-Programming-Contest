@@ -1,4 +1,4 @@
-# Codeforces-polygon
+# Create Programming Contest
 교내 알고리즘 대회 개최 준비를 위한 문제 제작 플랫폼 사용 방법
 - Polygon 주소: [https://polygon.codeforces.com/](https://polygon.codeforces.com/)  
 - BOJ Stack 주소: [https://stack.acmicpc.net/](https://stack.acmicpc.net/)
