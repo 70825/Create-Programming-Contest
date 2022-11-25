@@ -49,7 +49,7 @@
     <tr align="center">
       <td> 7 </td>
       <td> Validator </td>
-      <td>  </td>
+      <td> 2022.11.25 </td>
     </tr>
     <tr align="center">
       <td> 8 </td>
