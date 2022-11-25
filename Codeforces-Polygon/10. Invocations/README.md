@@ -12,8 +12,8 @@ Want to run soltuions?를 클릭합니다.
 
 ![image](https://user-images.githubusercontent.com/79046106/204022077-f5f253aa-7106-4b9f-8387-8e7a1e1cf01c.png)
 
-- Solution to run은 채점할 파일을 선택하는 곳입니다.
-- Tests to run은 채점할 데이터를 선택하는 곳입니다.
+- ```Solution to run```은 채점할 파일을 선택하는 곳입니다.
+- ```Tests to run```은 채점할 데이터를 선택하는 곳입니다.
 
 선택이 끝나면 ```Run jedgement``` 버튼을 클릭하면 됩니다.
 

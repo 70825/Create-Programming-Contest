@@ -1,10 +1,10 @@
 # Packages
 
-Polygon에서 문제를 다 제작한 것 같으면 이제 검수진을 모집하고, BOJ Stack에 대회를 개설하여 BOJ Stack에 내용들을 이동할 시간입니다.  
+```Polygon```에서 문제를 다 제작한 것 같으면 이제 검수진을 모집하고, ```BOJ Stack```에 대회를 개설하여 ```BOJ Stack```에 내용들을 이동할 시간입니다.  
 
 ![image](https://user-images.githubusercontent.com/79046106/204024274-8aa68e96-7a92-4c14-9d40-b6969a55d951.png)
 
-여기서 Full 버튼을 눌러서 패키지를 생성합니다.
+여기서 ```Full``` 버튼을 눌러서 패키지를 생성합니다.
 
 ![image](https://user-images.githubusercontent.com/79046106/204024370-af0aa580-ebe3-42e1-bb28-9ee8413e805e.png)
 

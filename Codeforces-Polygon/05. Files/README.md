@@ -1,6 +1,6 @@
 # Files
 
-파일 목록들을 확인하는 곳이지만, 랜덤 테스트 데이터 코드(generator) 파일만 새로 만들 때에만 사용하는 편입니다.
+파일 목록들을 확인하는 곳이지만, 랜덤 테스트 데이터 코드(```generator```) 파일만 새로 만들 때에만 사용하는 편입니다.
 
 ![image](https://user-images.githubusercontent.com/79046106/203833420-f34bc480-8647-4fdc-8519-995e08ed1d3d.png)
 
