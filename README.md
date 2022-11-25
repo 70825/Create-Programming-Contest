@@ -95,7 +95,7 @@
     <tr align="center">
       <td> 1 </td>
       <td> BOJ 대회 개설 </td>
-      <td>  </td>
+      <td> 2022.11.26 </td>
     </tr>
     <tr align="center">
       <td> 2 </td>
