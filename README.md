@@ -44,7 +44,7 @@
     <tr align="center">
       <td> 6 </td>
       <td> Checker </td>
-      <td>  </td>
+      <td> 2022.11.25 </td>
     </tr>
     <tr align="center">
       <td> 7 </td>
